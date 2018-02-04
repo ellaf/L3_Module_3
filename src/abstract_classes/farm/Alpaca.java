@@ -1,3 +1,4 @@
+package abstract_classes.farm;
 
 public class Alpaca extends Animal{
 

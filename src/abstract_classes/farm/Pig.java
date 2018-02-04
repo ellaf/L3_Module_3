@@ -1,4 +1,4 @@
-
+package abstract_classes.farm;
 public class Pig extends Animal{
 
 	public Pig(String food) {

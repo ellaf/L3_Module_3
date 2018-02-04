@@ -1,3 +1,4 @@
+package abstract_classes.farm;
 
 public abstract class Animal {
 	protected String food;
