@@ -19,7 +19,7 @@ public class BackwardsString extends SpecialString{
 		for (int i = funk.length-1; i > -1; i--) {
 				
 			newFunky += funk[i];
-			System.out.println(newFunky);
+			//System.out.println(newFunky);
 				
 			}	
 		
